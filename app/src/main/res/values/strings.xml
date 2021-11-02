@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Bom Preço</string>
+    <string name="botaoCalc">Calcular</string>
+    <string name="resultado">Resultado: </string>
+</resources>
